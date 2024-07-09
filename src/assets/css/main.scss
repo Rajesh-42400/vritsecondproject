@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+// .container {
+//     width: 1104px !important;
+// }
+
+
+.font-13-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.625px;
+}
+
+.font-15-400 {
+    font-family: "Be Vietnam Pro";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 173.333% */
+    letter-spacing: -0.1px;
+}
+
+.font-15-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 173.333% */
+    letter-spacing: -0.1px;
+}
+
+.font-17-400 {
+    font-family: "Be Vietnam Pro";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px; /* 170.588% */
+    letter-spacing: -0.2px;
+}
+
+.font-17-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.5px;
+}
+
+.font-19-400 {
+    font-family: "Be Vietnam Pro";
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 168.421% */
+    letter-spacing: -0.2px;
+}
+
+
+.font-21-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 152.381% */
+    letter-spacing: -0.5px;
+}
+
+.font-24-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 34px; /* 141.667% */
+    letter-spacing: -0.5px;
+}
+
+.font-32-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44px; /* 137.5% */
+    letter-spacing: -1.2px;
+}
+
+.font-36-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 133.333% */
+    letter-spacing: -1.2px;
+}
+
+
+.font-48-700 {
+    font-family: "Be Vietnam Pro";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58px; /* 120.833% */
+    letter-spacing: -1.8px;
+}
+
+.font-opacity {
+    opacity: 0.7;
+}
+
+.font-secondary-opacity {
+    opacity: 0.65;
+}
+
+.primary-color {
+    color: #161C2D;
+}
+
+.secondary-color {
+    color: #FFF;
+}
+
+.primary-btn {
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #473BF0;
+    border: none;
+}
+
+
+
+
